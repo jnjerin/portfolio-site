@@ -41,7 +41,7 @@ body {
     background-image: url();
 }
 
-/* **************General Styles ********* */
+/* =============== General Styles ================= */
 
 .container{
     width: var(--container-width-lg);
@@ -131,3 +131,5 @@ img {
         margin-bottom: 2rem;
     }
 }
+
+
