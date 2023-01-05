@@ -64,7 +64,6 @@ header {
     header {
         height: 68vh;
     }
-
 }
 
 /* ============= Media Queries(Small Devices) ============= */
@@ -74,7 +73,5 @@ header {
     }
     .header__socials, .scroll__down {
         display: none;
-    }
-
-    
+    }    
 }
