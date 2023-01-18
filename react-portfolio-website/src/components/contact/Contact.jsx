@@ -11,19 +11,19 @@ const Contact = () => {
       <div className="container contact__container">
         <div className="contact__options">
           <article className="contact__option">
-            <MdOutlineEmail />
+            <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>njerijoan24@gmail.com</h5>
             <a href="mailto:njerijoan24@gmail.com" target="_blank">Send a Message</a>
           </article>
           <article className="contact__option">
-            <MdOutlineEmail />
+            <MdOutlineEmail className='contact__option-icon' />
             <h4>Twitter</h4>
             <h5>DM on Twitter</h5>
             <a href="https://twitter.com/messages/compose?recipient_id=&ref_src=twsrc%5Etfw" class="twitter-dm-button" data-screen-name="joanndegwa" data-show-count="false" target="_blank">Message @joanndegwa</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </article>
           {/* <article className="contact__option">
-            <MdOutlineEmail />
+            <MdOutlineEmail className='contact__option-icon' />
             <h4>Email</h4>
             <h5>njerijoan24@gmail.com</h5>
             <a href="mailto:njerijoan24@gmail.com">Send a Message</a>
